@@ -1,8 +1,8 @@
 # Tehnologije:
 
-1. React 16.13
-2. axios
-3. react-router-dom
+1. React: 16.13.1
+2. axios: 0.20.0
+3. react-router-dom: 16.13.1
 
 ## Sta mora biti instalirano: 
 
