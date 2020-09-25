@@ -14,10 +14,12 @@ npm install axios
 ### Pokretanje aplikacije:
 
 1. Klonirati frontend sa ovog linka:
+            https://github.com/hemicarka94/Project-react
 
 2. npm install
 
 3. Klonirati server sa ovog linka: 
+            https://github.com/hemicarka94/Project-react/blob/master/db.json
 
 4. Pokrenuti server komandom:
             json-server --watch db.json --port 3005
@@ -25,6 +27,10 @@ npm install axios
 5. Pokrenuti frontend komantom: 
             npm start
 
+6. Podaci za logovanje su:
+            username: Milica
+            password: 1337
+            
 #### O aplikaciji :
 
 Aplikacija se bazira na oruzju iz video igre Counter Strike- Global Offansive.
