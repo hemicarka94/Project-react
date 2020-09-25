@@ -3,6 +3,7 @@
 1. React 16.13
 2. axios
 3. react-router-dom
+
 ## Sta mora biti instalirano: 
 
 1. json server mora biti globalno instaliran
@@ -30,7 +31,7 @@ npm install axios
 6. Podaci za logovanje su:
             username: Milica
             password: 1337
-            
+
 #### O aplikaciji :
 
 Aplikacija se bazira na oruzju iz video igre Counter Strike- Global Offansive.
