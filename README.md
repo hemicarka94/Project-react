@@ -40,4 +40,4 @@ Aplikacija se bazira na oruzju iz video igre Counter Strike- Global Offansive.
 
 Aplikacije sadrzi login, kada se ulogujete, imate opciju odabira izmedju dva tima (Counter Terrorist i Terrorist). Takodje poseduje i pretragu oruzja iz oba tima. Kada se udje u tim ili se pretrazi neko oruzje postoji opcija za detalje, na ciji klik dobijate vise informacija o tom oruzju.
 
-##### Link za pristup aplikaciji: https://hemicarka94.github.io/login
+##### Link za pristup aplikaciji: https://hemicarka94.github.io/Project-react/
