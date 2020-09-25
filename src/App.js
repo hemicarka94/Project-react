@@ -30,7 +30,7 @@ const App = () => {
 
   return (
     <div className="glavnidiv">
-      <Router>
+      <Router basename="/counter-strike-go">
         {user ? 
         <nav className="navigacija">
           <Link to="/"><p className="homegore">Home</p></Link>
